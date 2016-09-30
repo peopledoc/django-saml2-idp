@@ -1,3 +1,5 @@
+**WARNING: this project is not maintained**
+
 django-saml2-idp
 ================
 
